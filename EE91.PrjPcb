@@ -33,7 +33,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=3FF0ABD7-8EE9-413B-9E80-4FE56A3B2220
+VaultGUID=5C1D03F5-4761-40B3-851F-7BFC7C79912F
+ReleaseVaultName=California Institute of Technology
+ItemGUID=3FF0ABD7-8EE9-413B-9E80-4FE56A3B2220
 IncludeDesignInRelease=0
 
 [Preferences]
