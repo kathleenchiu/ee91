@@ -146,6 +146,23 @@ GenerateClassCluster=0
 DocumentUniqueId=GYKTWKBT
 
 [Document7]
+DocumentPath=PWM_Filter.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SXMNDELF
+
+[Document8]
 DocumentPath=EE91.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -162,7 +179,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFFIFXHH
 
-[Document8]
+[Document9]
 DocumentPath=470uF_Joes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
