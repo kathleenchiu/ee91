@@ -179,6 +179,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHKKUWIE
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for EE91\Design Rule Check - EE91.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
