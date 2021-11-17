@@ -179,6 +179,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHKKUWIE
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for EE91\Design Rule Check - EE91_duplicate.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -298,7 +302,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=averylab (HP LaserJet P3010 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1107,7 +1111,7 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name Only
 ComponentLibraryIdentifier0=California Institute of Technology
-ComponentDesignItemID0=UPS1H471MPD-2
+ComponentDesignItemID0=CMP-002-00071-3
 ComponentSymbolReference0=New symbol 1
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
